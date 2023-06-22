@@ -11,6 +11,10 @@ The same index cannot be used multiple times.
 
 ![Excel View](https://github.com/adambornrepo/ExportToExcel/blob/master/src/main/resources/images/excel.png)
 
+You can find the generated file on your desktop or you can modify the file path from the `application.properties` file.
+
+![File Path](https://github.com/adambornrepo/ExportToExcel/blob/master/src/main/resources/images/filepath.png)
+
 ## Getting Started
 
 To get started with this project, follow the steps below:
