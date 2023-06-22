@@ -1,6 +1,6 @@
 # Excel Export Example with Custom Annotation and Apache POI
 
-This repository is an example of exporting data to Excel using a custom annotation and Apache POI. The Excel export-related code can be found under the `/src/aboutexcel` package.
+This repository is an example of exporting data to Excel using a custom annotation and Apache POI. The Excel export-related code can be found under the `/src/../aboutexcel` package.
 
 ## Usage
 
