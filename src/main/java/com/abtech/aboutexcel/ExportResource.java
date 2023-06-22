@@ -33,7 +33,7 @@ public class ExportResource implements Serializable {
     @ExportToExcel(index = 5,headerText = "WORKING", width = 5000)
     private boolean isActive;
 
-    @ExportToExcel(index = 6,headerText = "EMPLOYEE ID", width = 10000)
+    @ExportToExcel(index = 6,headerText = "DATE OF HIRE", width = 10000)
     private LocalDateTime createdAt;
 
 }
