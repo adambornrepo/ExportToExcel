@@ -6,10 +6,10 @@ This repository is an example of exporting data to Excel using a custom annotati
 
 The process of writing data to Excel is handled within a separate class AbstractExcelExporter, while the class that extends it only requires specifying the headers, cell style configurations and the file path.
 
-Annotated fields are transferred to the Excel table. The column is ordered based on the `index`, the header text is written using the `headText`, and the column width is set using `width`. You may need to experiment with different values for column width to achieve the desired result.
+Annotated fields are transferred to the Excel table. The column is ordered based on the `index`, the header text is written using the `headerText`, and the column width is set using `width`. You may need to experiment with different values for column width to achieve the desired result.
 The same index cannot be used multiple times.
 
-![Excel View](./resources/images/excel.png)
+![Excel View](https://github.com/adambornrepo/ExportToExcel/blob/master/src/main/resources/images/excel.png)
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ To get started with this project, follow the steps below:
 4. Review the code and explore the example of exporting data to Excel.
 
 
-![src-aboutexcel](./resources/images/src-aboutexcel.png)
+![src-aboutexcel](https://github.com/adambornrepo/ExportToExcel/blob/master/src/main/resources/images/src-aboutexcel.png)
 
 ## Requirements
 
@@ -32,7 +32,7 @@ To run this project, make sure you have the following dependencies:
 - Apache POI
 - Lombok
 
-![Dependencies](./resources/images/dependencies.png)
+![Dependencies](https://github.com/adambornrepo/ExportToExcel/blob/master/src/main/resources/images/dependencies.png)
 
 ## Conclusion
 
